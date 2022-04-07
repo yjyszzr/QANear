@@ -1,0 +1,9 @@
+${PODS_ROOT}/Target Support Files/Pods-QANear/Pods-QANear-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Cache/Cache.framework
+${BUILT_PRODUCTS_DIR}/Gallery/Gallery.framework
+${BUILT_PRODUCTS_DIR}/HappyDNS/HappyDNS.framework
+${BUILT_PRODUCTS_DIR}/Hue/Hue.framework
+${BUILT_PRODUCTS_DIR}/Imaginary/Imaginary.framework
+${BUILT_PRODUCTS_DIR}/Lightbox/Lightbox.framework
+${BUILT_PRODUCTS_DIR}/Qiniu/Qiniu.framework
+${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework

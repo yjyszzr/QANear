@@ -1,0 +1,71 @@
+PODS:
+  - Cache (6.0.0)
+  - Gallery (2.4.0)
+  - HappyDNS (0.3.17)
+  - Hue (5.0.1)
+  - Imaginary (5.0.0):
+    - Cache (~> 6.0.0)
+  - Lightbox (2.5.0):
+    - Imaginary (~> 5.0.0)
+  - Qiniu (8.3.2):
+    - HappyDNS (~> 0.3.17)
+  - SVProgressHUD (2.2.6):
+    - SVProgressHUD/Core (= 2.2.6)
+  - SVProgressHUD/Core (2.2.6)
+
+DEPENDENCIES:
+  - Gallery (from `https://gitee.com/akdacun/Gallery.git`)
+  - Hue (from `https://gitee.com/pure-iOS/Hue.git`)
+  - Lightbox (from `https://gitee.com/zzr-test-swift/Lightbox.git`)
+  - Qiniu (from `https://gitee.com/zzr-test-swift/objc-sdk.git`)
+  - SVProgressHUD (from `https://gitee.com/seek/SVProgressHUD.git`)
+
+SPEC REPOS:
+  https://gitee.com/mirrors/CocoaPods-Specs.git:
+    - Cache
+    - Imaginary
+  trunk:
+    - HappyDNS
+
+EXTERNAL SOURCES:
+  Gallery:
+    :git: https://gitee.com/akdacun/Gallery.git
+  Hue:
+    :git: https://gitee.com/pure-iOS/Hue.git
+  Lightbox:
+    :git: https://gitee.com/zzr-test-swift/Lightbox.git
+  Qiniu:
+    :git: https://gitee.com/zzr-test-swift/objc-sdk.git
+  SVProgressHUD:
+    :git: https://gitee.com/seek/SVProgressHUD.git
+
+CHECKOUT OPTIONS:
+  Gallery:
+    :commit: ac4ab785951c82d9a4ab5a9f96c4649c4fc02e0b
+    :git: https://gitee.com/akdacun/Gallery.git
+  Hue:
+    :commit: 7aca116aea64950e6f9fef0bbb80fb55b7207e9c
+    :git: https://gitee.com/pure-iOS/Hue.git
+  Lightbox:
+    :commit: a07de07adbdd89860af2abfd3435d99f09bd7bff
+    :git: https://gitee.com/zzr-test-swift/Lightbox.git
+  Qiniu:
+    :commit: 6999cb44e6878ae0781cbbd073d16df42ab99ec7
+    :git: https://gitee.com/zzr-test-swift/objc-sdk.git
+  SVProgressHUD:
+    :commit: de1d4dba816a19454329031156b8788692bcfa2c
+    :git: https://gitee.com/seek/SVProgressHUD.git
+
+SPEC CHECKSUMS:
+  Cache: 4ca7e00363fca5455f26534e5607634c820ffc2d
+  Gallery: 1540ba3e8f2590d78eca0b9471e80e4686b82ca2
+  HappyDNS: 848ef73e24f2b0e2752064223ce2dc0dd88900ea
+  Hue: 6c634c419f709638593cf969a37d072ede1ae624
+  Imaginary: cf5e3a7dd6ab1dcbd47ba8ce5edf2307c4e99eb3
+  Lightbox: cc3d5124f024fa8197fd23f913160db1c61a1852
+  Qiniu: 61f1e2fdfb35b37f98c8f03a718faf12652f9994
+  SVProgressHUD: de812b4f0e1d65358f0064416473174ae619843f
+
+PODFILE CHECKSUM: 6f10b40b36be2c217c44dd2cfd0bd8f0b4878eb5
+
+COCOAPODS: 1.11.2

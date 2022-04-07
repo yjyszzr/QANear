@@ -1,0 +1,79 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AdvancedList",
+        "repositoryURL": "https://gitee.com/zzr-test-swift/AdvancedList.git",
+        "state": {
+          "branch": "master",
+          "revision": "9a7bf92e21f1a604ce7cc7d7827e201dfbf68279",
+          "version": null
+        }
+      },
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://gitee.com/zzr-test-swift/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "d120af1e8638c7da36c8481fd61a66c0c08dc4fc",
+          "version": "5.4.4"
+        }
+      },
+      {
+        "package": "FancyScrollView",
+        "repositoryURL": "https://gitee.com/zzr-test-swift/FancyScrollView.git",
+        "state": {
+          "branch": "develop",
+          "revision": "7a9210c21b956ed9263f625dc0debd720d0031a4",
+          "version": null
+        }
+      },
+      {
+        "package": "Kingfisher",
+        "repositoryURL": "https://gitee.com/zzr-test-swift/Kingfisher.git",
+        "state": {
+          "branch": "master",
+          "revision": "131c2c2737602dd8227fdf7ef68252662dc2752f",
+          "version": null
+        }
+      },
+      {
+        "package": "ListPagination",
+        "repositoryURL": "https://gitee.com/zzr-test-swift/ListPagination.git",
+        "state": {
+          "branch": "master",
+          "revision": "5fedc07dcc6b532fba0191a42a084a7adecd51e8",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftUIMapView",
+        "repositoryURL": "https://gitee.com/zzr-test-swift/swiftui-mapview.git",
+        "state": {
+          "branch": "master",
+          "revision": "2415c305c13babd10540598b360b216ffd2ca6ef",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftUIPullToRefresh",
+        "repositoryURL": "https://gitee.com/zzr-test-swift/SwiftUI-PullToRefresh.git",
+        "state": {
+          "branch": "master",
+          "revision": "cd33c339e2a030804dfda6517536c941c12cb3a3",
+          "version": null
+        }
+      },
+      {
+        "package": "ZLPhotoBrowser",
+        "repositoryURL": "https://gitee.com/zzr-test-swift/ZLPhotoBrowser.git",
+        "state": {
+          "branch": "master",
+          "revision": "ecc75806daee0f5c481dbb5882e9b44b34cba197",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
